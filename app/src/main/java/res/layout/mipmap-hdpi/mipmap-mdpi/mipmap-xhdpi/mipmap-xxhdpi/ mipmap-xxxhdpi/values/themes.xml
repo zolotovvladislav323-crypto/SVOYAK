@@ -1,1 +1,8 @@
-
+<resources>
+    <style name="AppThemeDayNight" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+    <style name="AppThemeDayNight.NoActionBar" parent="AppThemeDayNight" />
+    <style name="AppThemeDayNight.NoActionBar.Translucent" parent="AppThemeDayNight">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+</resources>
