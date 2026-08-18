@@ -1,1 +1,3 @@
-
+<resources>
+    <dimen name="highlight_alpha_material_colored">0.2</dimen>
+</resources>
