@@ -1,1 +1,13 @@
-
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/widget_bg"
+    android:gravity="center"
+    android:padding="4dp">
+    <Button
+        android:id="@+id/widget_switch"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:background="@drawable/ic_stat_name"
+        android:contentDescription="VPN" />
+</LinearLayout>
