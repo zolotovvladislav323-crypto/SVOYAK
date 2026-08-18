@@ -1,1 +1,8 @@
-
+<resources>
+    <string name="app_name">Мой VPN</string>
+    <string name="app_tile_name">VPN</string>
+    <string name="app_widget_name">VPN</string>
+    <string name="menu_item_import_config_qrcode">QR-код</string>
+    <string name="menu_item_del_config">Удалить</string>
+    <string name="menu_item_save_config">Сохранить</string>
+</resources>
